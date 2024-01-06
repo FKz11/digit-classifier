@@ -1,0 +1,10 @@
+batch_size: 32
+hidden_dim: 100
+dropout: 0.0
+batch_norm_flag: false
+lr: 0.01
+epochs: 50
+seed: 42
+mlflow_uri: "http://127.0.1.1:8080"
+experiment_name: "digit_classifier Sergeev Konstantin"
+author: "Sergeev Konstantin"

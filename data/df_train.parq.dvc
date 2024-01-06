@@ -1,0 +1,5 @@
+outs:
+- md5: 41093e7a2df03d8f86d0f844dd90bfe1
+  size: 99849
+  hash: md5
+  path: df_train.parq

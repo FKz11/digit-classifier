@@ -1,0 +1,5 @@
+outs:
+- md5: f985c71d939154da67fb389404a29379
+  size: 54753
+  hash: md5
+  path: df_test.parq
